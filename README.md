@@ -13,6 +13,6 @@
 **Get in touch with us:**
 
 - Website: https://infoaptotech.com
-- Email:githubrepo@infoaptotech.com
+- Email: githubrepo@infoaptotech.com
 
 

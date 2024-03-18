@@ -1,24 +1,18 @@
-# Hi there, we're [Company Name]! 👋
+# Hi there, we're Infoapto Tech! 👋
 
 - 👀 We're interested in creating IT Solutions.
-- 🌱 We're currently focusing on AI-Based solutions for everyone.
-- 📫 How to reach us: [provide contact information or links to your company's website or social media].
-- 😄 Pronouns: [optional, specify your company's preferred pronouns].
-- ⚡ Fun fact: [share a fun fact about your company or team].
+- 🌱 We're currently focusing on AI-based solutions for everyone.
+- 📫 How to reach us: githubrepo@infoaptotech.com.
 
 ---
 
-**[Company Name] GitHub Repository**
-
-This repository contains [describe the purpose of your repository or what it includes]. Feel free to explore and contribute!
+**Infoapto Tech GitHub Repository**
 
 ---
 
 **Get in touch with us:**
 
-- Website: [Your Company's Website]
-- Twitter: [@YourTwitterHandle]
-- LinkedIn: [Your LinkedIn Page]
-- Email: [Your Email Address]
+- Website: https://infoaptotech.com
+- Email:githubrepo@infoaptotech.com
 
 
